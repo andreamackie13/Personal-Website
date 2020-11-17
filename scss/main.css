@@ -17,7 +17,7 @@
 
 .btn-main {
   color: #333;
-  background-color: #ffbc00;
+  background-color: #BCC8DF;
 }
 
 .btn-light {
@@ -33,11 +33,11 @@
 button[class^='btn-']:hover,
 a[class^='btn-']:hover,
 input[class^='btn-']:hover {
-  background-color: #ffbc00;
+  background-color: #BCC8DF;
 }
 
 .bg-main {
-  background: #ffbc00;
+  background: #BCC8DF;
   color: #fff;
 }
 
@@ -109,7 +109,7 @@ input[class^='btn-']:hover {
 .bottom-line {
   height: 2px;
   width: 3rem;
-  background: #ffbc00;
+  background: #BCC8DF;
   display: block;
   margin: 0 auto 1rem auto;
 }
@@ -125,7 +125,7 @@ input[class^='btn-']:hover {
 
 .item {
   position: relative;
-  background: #ffbc00;
+  background: #BCC8DF;
   overflow: hidden;
 }
 
@@ -303,7 +303,7 @@ img {
 }
 
 #main-nav a.current {
-  border-color: #ffbc00;
+  border-color: #BCC8DF;
 }
 
 #header-home {
@@ -325,7 +325,7 @@ img {
 #header-inner {
   background: url("../img/background.png") no-repeat 30% 80%/cover;
   height: 5.5rem;
-  border-bottom: 3px solid #ffbc00;
+  border-bottom: 3px solid #BCC8DF;
 }
 
 #home-a .specials {
@@ -338,7 +338,7 @@ img {
 }
 
 #home-a .specials .fas {
-  color: #ffbc00;
+  color: #BCC8DF;
   padding-bottom: 0.4rem;
 }
 
@@ -388,7 +388,7 @@ img {
   top: 0;
   right: 0;
   font-size: 28px;
-  background: #ffbc00;
+  background: #BCC8DF;
   color: #fff;
   border-radius: 50%;
   height: 15px;
@@ -414,7 +414,7 @@ img {
 }
 
 #home-c .process-icon:hover {
-  background: #ffbc00;
+  background: #BCC8DF;
   width: 90px;
   height: 90px;
   line-height: 90px;
@@ -443,7 +443,7 @@ img {
   -ms-grid-column: 2;
   -ms-grid-column-span: 2;
   grid-area: bio;
-  border-left: 3px solid #ffbc00;
+  border-left: 3px solid #BCC8DF;
   padding: 0.8rem;
 }
 
@@ -468,7 +468,7 @@ img {
 #about-a .award-1 .fas,
 #about-a .award-2 .fas,
 #about-a .award-3 .fas {
-  color: #ffbc00;
+  color: #BCC8DF;
   margin: 1rem;
 }
 
@@ -488,7 +488,7 @@ img {
   height: 100%;
   color: #fff;
   text-align: center;
-  background: #ffbc00;
+  background: #BCC8DF;
 }
 
 #about-c .about-logos {
@@ -627,7 +627,7 @@ img {
 }
 
 #main-footer .footer-content .social .fab:hover {
-  background: #ffbc00;
+  background: #BCC8DF;
 }
 
 @media (max-width: 1200px) {
@@ -657,7 +657,7 @@ img {
   }
   #header-home {
     height: 10rem;
-    border-bottom: 3px solid #ffbc00;
+    border-bottom: 3px solid #BCC8DF;
     background-position: 30% 80%;
   }
   #header-home .header-content {

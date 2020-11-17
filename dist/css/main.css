@@ -12,11 +12,11 @@
   .cursor {
     width: 20px;
     height: 20px;
-    border: 2px solid #ffbc00;
+    border: 2px solid #BCC8DF;
     border-radius: 50%;
     position: absolute;
-    box-shadow: 2px -3px 41px -1px #ffbc00;
-  
+    box-shadow: 2px -3px 41px -1px #BCC8DF;
+
     pointer-events: none;
   }
 
@@ -28,13 +28,13 @@
     left: -5%;
     animation: anime 3s ease;
   }
-  
+
   @keyframes anime {
     0% {
       left: 40%;
       opacity: 0;
     }
-  
+
 
 
     100% {
@@ -54,7 +54,7 @@
 
 .btn-main {
   color: #333;
-  background-color: #ffbc00; }
+  background-color: #BCC8DF; }
 
 .btn-light {
   color: #333;
@@ -67,10 +67,10 @@
 button[class^='btn-']:hover,
 a[class^='btn-']:hover,
 input[class^='btn-']:hover {
-  background-color: #ffbc00; }
+  background-color: #BCC8DF; }
 
 .bg-main {
-  background: #ffbc00;
+  background: #BCC8DF;
   color: #fff; }
 
 .bg-dark {
@@ -133,7 +133,7 @@ input[class^='btn-']:hover {
 .bottom-line {
   height: 2px;
   width: 3rem;
-  background: #ffbc00;
+  background: #BCC8DF;
   display: block;
   margin: 0 auto 1rem auto; }
 
@@ -144,7 +144,7 @@ input[class^='btn-']:hover {
 
 .item {
   position: relative;
-  background: #ffbc00;
+  background: #BCC8DF;
   overflow: hidden; }
   .item::after {
     content: '';
@@ -238,7 +238,7 @@ img {
   width: 70px;
   height: 70px;
   color: #fff;
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
 
 #main-nav {
@@ -259,7 +259,7 @@ img {
     #main-nav a:hover {
       border-color: #ccc; }
     #main-nav a.current {
-      border-color: #ffbc00; }
+      border-color: #BCC8DF; }
 
 #header-home {
   background: url("../img/background.png") no-repeat center right/cover;
@@ -285,7 +285,7 @@ img {
 }
 
 #header-home .header-content h1:hover {
-      -webkit-text-fill-color: #ffbc00;
+      -webkit-text-fill-color: #BCC8DF;
 }
 
 
@@ -296,7 +296,7 @@ img {
 #header-inner {
   background: url("../img/showcase.jpg") no-repeat 30% 80%/cover;
   height: 5.5rem;
-  border-bottom: 3px solid #ffbc00; }
+  border-bottom: 3px solid #BCC8DF; }
 
 #home-a .specials {
   margin-top: 3rem;
@@ -304,7 +304,7 @@ img {
   grid-gap: 1rem;
   grid-template-columns: repeat(4, 1fr); }
   #home-a .specials .fas {
-    color: #ffbc00;
+    color: #BCC8DF;
     padding-bottom: 0.4rem; }
 
 
@@ -314,7 +314,7 @@ img {
   width: 50px;
   height: 40px;
   line-height: 40px;
-} 
+}
 
 
     /* revise */
@@ -340,7 +340,7 @@ img {
     #home-b .hover-effect:hover{
       transform: scale(1.1)
     }
-      
+
 
 #home-c .process {
   display: grid;
@@ -353,7 +353,7 @@ img {
     top: 0;
     right: 0;
     font-size: 28px;
-    background: #ffbc00;
+    background: #BCC8DF;
     color: #fff;
     border-radius: 50%;
     height: 15px;
@@ -374,7 +374,7 @@ img {
     position: relative;
     transition: all 1s; }
     #home-c .process-icon:hover {
-      background: #ffbc00;
+      background: #BCC8DF;
       width: 90px;
       height: 90px;
       line-height: 90px; }
@@ -393,7 +393,7 @@ img {
 
 #about-a .bio {
   grid-area: bio;
-  border-left: 3px solid #ffbc00;
+  border-left: 3px solid #BCC8DF;
   padding: 3rem; }
 
 
@@ -412,7 +412,7 @@ img {
 #about-a .award-1 .fas,
 #about-a .award-2 .fas,
 #about-a .award-3 .fas {
-  color: #ffbc00;
+  color: #BCC8DF;
   margin: 1rem; }
 
 
@@ -438,23 +438,23 @@ img {
     height: 100%;
     color: #fff;
     text-align: center;
-    background: #ffbc00; }
+    background: #BCC8DF; }
 
 
     #about-b .hover-effect:hover  {
-      color: #ffbc00;
+      color: #BCC8DF;
       font-stretch: expanded;
-    } 
+    }
 
     #about-b .hover-effect:hover  h4{
       font-size: large;
-      
-    } 
+
+    }
 
   #about-b .hover-effect:hover .effect {
     background: rgb(0, 168, 194);
-  } 
-  
+  }
+
 
 #about-c .about-logos {
   display: grid;
@@ -552,16 +552,16 @@ img {
       text-align: center;
       padding: 0.5rem; }
       #main-footer .footer-content .social .fab:hover {
-        background: #ffbc00; }
+        background: #BCC8DF; }
 
 @media (max-width: 800px) {
   #header-home {
     background-image: url(../img/showcase.jpg);
     height: 30rem; }
     #header-home .header-content {
-      padding-top: 5rem; } 
+      padding-top: 5rem; }
     .full {display: none; }
-    
+
     }
 
 @media (max-width: 500px) {
@@ -575,7 +575,7 @@ img {
   #header-home {
     height: 10rem;
     background-image: url(../img/showcase.jpg);
-    border-bottom: 3px solid #ffbc00;
+    border-bottom: 3px solid #BCC8DF;
     background-position: 30% 80%; }
     #header-home .header-content {
       display: none; }
