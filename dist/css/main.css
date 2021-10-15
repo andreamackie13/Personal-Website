@@ -183,7 +183,7 @@ input[class^='btn-']:hover {
     height: auto;
     line-height: 0; }
   .item-text {
-    position: absolute;
+    position: sticky;
     top: 0;
     left: 0;
     bottom: 0;
