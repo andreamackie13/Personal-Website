@@ -600,7 +600,7 @@ img {
   .items {
     grid-template-columns: 1fr; }
   #home-a .specials div {
-    border-bottom: 1px #f4f4f4 solid;
+    border-bottom: 1px #f4f4f6 solid;
     padding: bottom 1rem; }
     #home-a .specials div:last-child {
       border: none;
