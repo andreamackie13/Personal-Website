@@ -272,9 +272,9 @@ img {
       border-color: #F8ECE8; }
 
 #header-home {
-
+  background-color: #111111 
   height: 100vh;
-  color: #111111; }
+  color: #fff; }
   #header-home .header-content {
     text-align: center;
     padding-top: 10%; }
