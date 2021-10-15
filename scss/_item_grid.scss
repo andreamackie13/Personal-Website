@@ -38,7 +38,7 @@
 
     &:hover &-text {
         opacity: 1;
-        transform: translateY(50);
+        transform: translateY(0);
     }
 
     &-image {
@@ -85,7 +85,7 @@
         position: absolute;
         width: 100%;
         top: 50%;
-        transform: translateY(-50%);
+        transform: translateY(-90%);
     }
 
 
