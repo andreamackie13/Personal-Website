@@ -139,9 +139,6 @@ input[class^='btn-']:hover {
 
 .items {
   display: grid;
-
-  text-align: center;
-
   grid-template-columns: repeat(3, 1fr);
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3); }
 
@@ -151,7 +148,9 @@ input[class^='btn-']:hover {
   overflow: hidden; }
   .item::after {
     content: '';
-    position: absolute;
+    
+    position: relative;
+
     display: block;
     background: inherit;
     opacity: 0.9;

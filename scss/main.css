@@ -124,7 +124,7 @@ input[class^='btn-']:hover {
 }
 
 .item {
-  position: absolute;
+  position: relative;
   background: #a3b0c9;
   overflow: hidden;
 }
