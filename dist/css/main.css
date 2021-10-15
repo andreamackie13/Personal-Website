@@ -79,7 +79,7 @@ input[class^='btn-']:hover {
 
 .bg-light {
   background: #f4f4f4;
-  color: #111111; }
+  color: #000; }
 
 .bg-medium {
   background: #ccc;
