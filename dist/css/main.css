@@ -164,8 +164,8 @@ input[class^='btn-']:hover {
     transform: scale(1.2); }
   .item:hover .item-text {
     opacity: 1;
-
-    transform: translateY(20%); }
+    /*this is where the text goes in the other containers, 20*/
+    transform: translateY(100%); }
 
   .item-image {
     height: auto;
