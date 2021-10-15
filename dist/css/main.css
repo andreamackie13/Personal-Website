@@ -145,10 +145,9 @@ input[class^='btn-']:hover {
 .item {
   position: relative;
   background: #a3b0c9;
-  overflow: hidden;
+  overflow: hidden;}
 
-  /*test */
-  transform: translateY(20%);}
+
 
   .item::after {
     content: '';
@@ -207,8 +206,8 @@ input[class^='btn-']:hover {
     position: absolute;
     width: 100%;
     top: 50%;
-    /*This changes where the text in the first container goes!
-    transform: translateY(-100%); }*/
+    /*This changes where the text in the first container goes!*/
+    transform: translateY(-100%); }
 
   .item-text-title {
     font-size: 2rem;
