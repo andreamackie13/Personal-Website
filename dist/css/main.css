@@ -272,7 +272,7 @@ img {
       border-color: #F8ECE8; }
 
 #header-home {
-  background: url("../img/background.png") no-repeat center right/cover;
+  
   height: 100vh;
   color: #fff; }
   #header-home .header-content {
