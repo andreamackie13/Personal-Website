@@ -203,7 +203,9 @@ input[class^='btn-']:hover {
     position: absolute;
     width: 100%;
     top: 50%;
-    transform: translateY(-50%); }
+    /*-50*/
+    transform: translateY(0); }
+
   .item-text-title {
     font-size: 2rem;
     padding: 0 1rem;
