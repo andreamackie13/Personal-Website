@@ -139,13 +139,17 @@ input[class^='btn-']:hover {
 
 .items {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3); }
 
 .item {
   position: relative;
   background: #a3b0c9;
-  overflow: hidden; }
+  overflow: hidden;
+
+  /*test */
+  transform: translateY(20%);}
+
   .item::after {
     content: '';
     position: absolute;
@@ -203,8 +207,8 @@ input[class^='btn-']:hover {
     position: absolute;
     width: 100%;
     top: 50%;
-    /*This changes where the text in the first container goes!*/
-    transform: translateY(-100%); }
+    /*This changes where the text in the first container goes!
+    transform: translateY(-100%); }*/
 
   .item-text-title {
     font-size: 2rem;
