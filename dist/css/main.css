@@ -124,6 +124,7 @@ input[class^='btn-']:hover {
 
 .section-title {
   font-size: 2rem;
+  background: #111111;
   display: block;
   padding-bottom: 0.5rem;
   text-align: center;
