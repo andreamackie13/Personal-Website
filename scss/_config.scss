@@ -15,6 +15,6 @@ $bg-image:url('../img/background.png');
     }
 
     @else {
-        @return #fff;
+        @return #111111;
     }
 }
