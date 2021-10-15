@@ -304,7 +304,7 @@ img {
 
 
 #header-inner {
-  background: url("../img/showcase.jpg") no-repeat 30% 80%/cover;
+  background: url("../img/background.png") no-repeat center right/cover;
   height: 5.5rem;
   border-bottom: 3px solid #F8ECE8; }
 
@@ -567,7 +567,7 @@ img {
 
 @media (max-width: 800px) {
   #header-home {
-    background-image: url(../img/showcase.jpg);
+    background-image: url(../img/showcase.png);
     height: 30rem; }
     #header-home .header-content {
       padding-top: 5rem; }
@@ -585,7 +585,7 @@ img {
       padding: 1rem; }
   #header-home {
     height: 10rem;
-    background-image: url(../img/showcase.jpg);
+    background-image: url(../img/showcase.png);
     border-bottom: 3px solid #F8ECE8;
     background-position: 30% 80%; }
     #header-home .header-content {
