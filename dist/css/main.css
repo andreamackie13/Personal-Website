@@ -204,7 +204,7 @@ input[class^='btn-']:hover {
     width: 100%;
     top: 50%;
     /*-50, 90*/
-    transform: translateY(-50%); }
+    transform: translateY(-100%); }
 
   .item-text-title {
     font-size: 2rem;
