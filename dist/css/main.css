@@ -394,6 +394,7 @@ img {
         color: #fff; }
 
 #about-a .about-info {
+  background-color: #111111;
   display: grid;
   grid-template-areas: 'bio-image bio bio' 'award-1 award-2 award-3';
   grid-gap: 1.2rem; }
