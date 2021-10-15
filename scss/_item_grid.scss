@@ -6,7 +6,7 @@
 }
 
 .item {
-    position: center;
+    position: relative;
     background: $main-color;
     overflow: hidden;
 
@@ -38,7 +38,7 @@
 
     &:hover &-text {
         opacity: 1;
-        transform: translateY(0);
+        transform: translateY(50);
     }
 
     &-image {
