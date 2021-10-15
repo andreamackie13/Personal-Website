@@ -148,9 +148,7 @@ input[class^='btn-']:hover {
   overflow: hidden; }
   .item::after {
     content: '';
-    
-    position: relative;
-
+    position: absolute;
     display: block;
     background: inherit;
     opacity: 0.9;
@@ -166,7 +164,9 @@ input[class^='btn-']:hover {
     transform: scale(1.2); }
   .item:hover .item-text {
     opacity: 1;
-    transform: translateY(0); }
+    
+    transform: translateY(-50%); }
+
   .item-image {
     height: auto;
     transform: translateZ(0);
