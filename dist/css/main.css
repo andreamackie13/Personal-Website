@@ -462,6 +462,7 @@ img {
     }
 
   #about-b .hover-effect:hover .effect {
+    /*This is the hover color*/
     background: rgb(0, 168, 194);
   }
 
