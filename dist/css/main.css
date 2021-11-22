@@ -365,23 +365,28 @@ img {
     font-size: 28px;
     background: #F8ECE8;
     color: #fff;
-    
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    line-height: 15px;
     padding: 1rem;
     transition: all 1s; }
 
   #home-c .process-icon {
-
-
+    border-radius: 50%;
+    line-height: 70px;
+    padding: 2rem;
     background: #333;
     color: #fff;
-
     width: 1350px;
     height: 650px;
-
     text-align: center;
     position: relative;
     transition: all 1s; }
     #home-c .process-icon:hover {
+      width: 90px;
+      height: 90px;
+      line-height: 90px;
       background: #F8ECE8;
        }
 
