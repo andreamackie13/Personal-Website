@@ -22,8 +22,8 @@
 
   .full {
     position: absolute;
-    height: 60%;
-    width: 30%;
+    height: 100%;
+    width: 100%;
     top: 40%;
     left: 0%;
     animation: anime 3s ease;
