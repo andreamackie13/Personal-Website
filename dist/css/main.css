@@ -373,10 +373,11 @@ img {
     transition: all 1s; }
 
   #home-c .process-icon {
-    
+  
+
     background: #333;
     color: #fff;
-    padding: 2rem;
+
     width: 1350px;
     height: 650px;
 
