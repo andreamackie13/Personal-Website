@@ -369,7 +369,7 @@ img {
         width: 15px;
         line-height: 15px;
         padding: 1rem;
-        transition: all 1s; }
+        transition: all 50s; }
 
       #home-c .process-icon {
         border-radius: 50%;
@@ -381,7 +381,7 @@ img {
         height: 650px;
         text-align: center;
         position: relative;
-        transition: all 50s; }
+        transition: all 1s; }
         #home-c .process-icon:hover {
           width: 90px;
           height: 90px;
